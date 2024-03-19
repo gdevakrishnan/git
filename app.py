@@ -1,1 +1,1 @@
-print("@johnwesly08 oru loosu koomuttai")
+print("@johnwesly08 oru mahaan")
